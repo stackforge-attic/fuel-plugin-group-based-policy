@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Przemyslaw Kaminski <pkaminski@mirantis.com>
+Workflow+1: Przemyslaw Kaminski <pkaminski@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 09 Apr 2015 07:43:12 +0000
+Reviewed-on: https://review.openstack.org/171949
+Project: stackforge/fuel-plugin-group-based-policy
+Branch: refs/heads/master
